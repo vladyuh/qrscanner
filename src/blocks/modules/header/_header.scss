@@ -1,0 +1,39 @@
+header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 5;
+    width: 100%;
+    background: #fff;
+
+    .container {
+        max-width: 100% !important;
+        padding: 0 20px !important;
+    }
+
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+    height: 56px;
+
+    &__logo {
+        margin-right: auto;
+        margin-left: 24px;
+
+        @media screen and (max-width: 1152px) {
+            margin: 0 auto;
+        }
+
+    }
+
+    &__burger,
+    &__more {
+        width: 24px;
+        height: 24px;
+        cursor: pointer;
+    }
+}

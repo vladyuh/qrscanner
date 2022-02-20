@@ -1,0 +1,66 @@
+{
+  "name": "QR Сканер",
+  "short_name": "QR Сканер",
+  "theme_color": "#000",
+  "background_color": "#fff",
+  "display": "standalone",
+  "description": "QR Сканер - сканер QR кодов и штрихкодов",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "img/favicons/apple-touch-icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "img/favicons/apple-touch-icon-76x76.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+    {
+      "src": "img/favicons/apple-touch-icon-120x120.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "img/favicons/apple-touch-icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "img/favicons/apple-touch-icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "img/favicons/apple-touch-icon-180x180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "img/favicons/apple-touch-icon-1024x1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "img/screens/1.png",
+      "sizes": "750x1334",
+      "type": "image/png"
+     },
+     {
+      "src": "img/screens/2.png",
+      "sizes": "750x1334",
+      "type": "image/png"
+     },
+     {
+      "src": "img/screens/3.png",
+      "sizes": "750x1334",
+      "type": "image/png"
+     }
+  ]
+}

@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "app.web.qrscanner_fdd82.twa",
+                     "sha256_cert_fingerprints": ["B6:9B:B3:92:C6:F6:DB:66:90:E3:26:1A:7E:77:C2:36:D0:74:09:86:71:84:B3:D5:EB:28:19:71:8B:25:68:0C"] }
+      }
+]

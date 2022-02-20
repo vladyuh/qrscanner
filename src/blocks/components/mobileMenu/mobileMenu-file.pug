@@ -1,0 +1,14 @@
+include ../../components/burger/burger
+.mobileMenu
+  .container
+    .mobileMenu-header
+      .mobileMenu-header__toggle
+        +icons('#ic_close',24)
+    .mobileMenu-nav
+      ul.mobileMenu-nav__ul
+          li
+            a.btn.btn-round(href="index.html")
+                +icons('#ic_camera',24)
+                span С камеры
+          li#resultss: a Результаты сканирования
+    .mobileMenu-footer
